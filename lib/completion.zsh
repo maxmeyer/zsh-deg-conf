@@ -1,6 +1,6 @@
 #caching
 zstyle ':completion:*' use-cache on
-zstyle ':completion:*' cache-path ~/.zsh/cache
+zstyle ':completion:*' cache-path ~/.local/share/zsh/completion_cache
 
 #approxy completion
 zstyle ':completion:*' completer _complete _match _approximate
