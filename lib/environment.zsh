@@ -1,3 +1,4 @@
+export TERM=xterm-256color
 export EDITOR=vim
 export HISTFILE=~/.local/share/zsh/history
 export HISTSIZE=10000
